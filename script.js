@@ -11,6 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Установка видео (замените ссылки на ваши видеофайлы)
     mainVideo.src = "https://www.w3schools.com/html/mov_bbb.mp4";
-    cornerVideo.src = "https://www.w3schools.com/html/movie.mp4";
+    cornerVideo.src = "https://github.com/UzunDemir/jucarii/blob/main/Untitled%20video(1).mp4";
   }, 3000); // 3 секунды
 });
